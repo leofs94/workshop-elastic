@@ -1,0 +1,237 @@
+2019-06-10T16:46:15.661Z info [index.js]: Corriendo en port 3001
+2019-06-10T16:46:42.209Z info [index.js]: Corriendo en port 3001
+2019-06-10T17:23:51.409Z info [index.js]: Corriendo en port 3001
+2019-06-10T17:25:12.691Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:26:19.743Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:26:45.466Z info [index.js]: Corriendo en port 3001
+2019-06-10T17:26:57.414Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:32:20.991Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:32:21.499Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:32:31.774Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T18:40:22.299Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T18:42:05.794Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T18:42:32.077Z info [index.js]: Corriendo en port 3001
+2019-06-10T18:45:50.658Z info [index.js]: Corriendo en port 3001
+2019-06-10T18:46:13.044Z info [index.js]: Corriendo en port 3001
+2019-06-10T18:48:31.103Z info [index.js]: Corriendo en port 3001
+2019-06-10T19:19:25.739Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T19:35:53.122Z info [index.js]: Corriendo en port 3001
+2019-06-11T00:27:45.581Z info [index.js]: Corriendo en port 3001
+2019-06-10T16:46:15.661Z info [index.js]: Corriendo en port 3001
+2019-06-10T16:46:42.209Z info [index.js]: Corriendo en port 3001
+2019-06-10T17:23:51.409Z info [index.js]: Corriendo en port 3001
+2019-06-10T17:25:12.691Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:26:19.743Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:26:45.466Z info [index.js]: Corriendo en port 3001
+2019-06-10T17:26:57.414Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:32:20.991Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:32:21.499Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:32:31.774Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:56:22.716Z info [index.js]: Corriendo en port 3001
+2019-06-10T18:40:22.299Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T18:40:37.475Z info [index.js]: Corriendo en port 3001
+2019-06-10T18:42:05.794Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T18:42:32.077Z info [index.js]: Corriendo en port 3001
+2019-06-10T18:45:50.658Z info [index.js]: Corriendo en port 3001
+2019-06-10T18:46:13.044Z info [index.js]: Corriendo en port 3001
+2019-06-10T18:48:31.103Z info [index.js]: Corriendo en port 3001
+2019-06-10T19:19:25.739Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T19:34:55.390Z info [index.js]: Corriendo en port 3001
+2019-06-10T19:35:53.122Z info [index.js]: Corriendo en port 3001
+2019-06-11T00:27:45.581Z info [index.js]: Corriendo en port 3001
+2019-06-10T16:46:15.661Z info [index.js]: Corriendo en port 3001
+2019-06-10T16:46:42.209Z info [index.js]: Corriendo en port 3001
+2019-06-10T17:23:51.409Z info [index.js]: Corriendo en port 3001
+2019-06-10T17:25:12.691Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:26:19.743Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:26:45.466Z info [index.js]: Corriendo en port 3001
+2019-06-10T17:26:57.414Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:32:20.991Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:32:21.499Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:32:31.774Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:56:22.716Z info [index.js]: Corriendo en port 3001
+2019-06-10T18:40:22.299Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T18:40:37.475Z info [index.js]: Corriendo en port 3001
+2019-06-10T18:42:05.794Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T18:42:32.077Z info [index.js]: Corriendo en port 3001
+2019-06-10T18:45:50.658Z info [index.js]: Corriendo en port 3001
+2019-06-10T18:46:13.044Z info [index.js]: Corriendo en port 3001
+2019-06-10T18:48:31.103Z info [index.js]: Corriendo en port 3001
+2019-06-10T16:46:15.661Z info [index.js]: Corriendo en port 3001
+2019-06-10T16:46:42.209Z info [index.js]: Corriendo en port 3001
+2019-06-10T17:23:51.409Z info [index.js]: Corriendo en port 3001
+2019-06-10T17:25:12.691Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:26:19.743Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:26:45.466Z info [index.js]: Corriendo en port 3001
+2019-06-10T17:26:57.414Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:32:20.991Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:32:21.499Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:32:31.774Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:56:22.716Z info [index.js]: Corriendo en port 3001
+2019-06-10T18:40:22.299Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T18:40:37.475Z info [index.js]: Corriendo en port 3001
+2019-06-10T18:42:05.794Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T18:42:32.077Z info [index.js]: Corriendo en port 3001
+2019-06-10T18:45:50.658Z info [index.js]: Corriendo en port 3001
+2019-06-10T18:46:13.044Z info [index.js]: Corriendo en port 3001
+2019-06-10T18:48:31.103Z info [index.js]: Corriendo en port 3001
+2019-06-10T19:19:25.739Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T19:34:55.390Z info [index.js]: Corriendo en port 3001
+2019-06-10T19:35:53.122Z info [index.js]: Corriendo en port 3001
+2019-06-11T00:27:45.581Z info [index.js]: Corriendo en port 3001
+2019-06-10T16:46:15.661Z info [index.js]: Corriendo en port 3001
+2019-06-10T16:46:42.209Z info [index.js]: Corriendo en port 3001
+2019-06-10T17:23:51.409Z info [index.js]: Corriendo en port 3001
+2019-06-10T17:25:12.691Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:26:19.743Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:26:45.466Z info [index.js]: Corriendo en port 3001
+2019-06-10T17:26:57.414Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:32:20.991Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:32:21.499Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:32:31.774Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:56:22.716Z info [index.js]: Corriendo en port 3001
+2019-06-10T18:40:22.299Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T18:40:37.475Z info [index.js]: Corriendo en port 3001
+2019-06-10T18:42:05.794Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T18:42:32.077Z info [index.js]: Corriendo en port 3001
+2019-06-10T18:45:50.658Z info [index.js]: Corriendo en port 3001
+2019-06-10T18:46:13.044Z info [index.js]: Corriendo en port 3001
+2019-06-10T18:48:31.103Z info [index.js]: Corriendo en port 3001
+2019-06-10T19:19:25.739Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T19:34:55.390Z info [index.js]: Corriendo en port 3001
+2019-06-10T19:35:53.122Z info [index.js]: Corriendo en port 3001
+2019-06-11T00:27:45.581Z info [index.js]: Corriendo en port 3001
+2019-06-10T16:46:15.661Z info [index.js]: Corriendo en port 3001
+2019-06-10T16:46:42.209Z info [index.js]: Corriendo en port 3001
+2019-06-10T17:23:51.409Z info [index.js]: Corriendo en port 3001
+2019-06-10T17:25:12.691Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:26:45.466Z info [index.js]: Corriendo en port 3001
+2019-06-10T17:26:57.414Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:32:20.991Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:32:21.499Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:32:31.774Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:56:22.716Z info [index.js]: Corriendo en port 3001
+2019-06-10T18:40:22.299Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T18:40:37.475Z info [index.js]: Corriendo en port 3001
+2019-06-10T18:42:05.794Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T18:42:32.077Z info [index.js]: Corriendo en port 3001
+2019-06-10T18:45:50.658Z info [index.js]: Corriendo en port 3001
+2019-06-10T18:46:13.044Z info [index.js]: Corriendo en port 3001
+2019-06-10T18:48:31.103Z info [index.js]: Corriendo en port 3001
+2019-06-10T19:19:25.739Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T19:34:55.390Z info [index.js]: Corriendo en port 3001
+2019-06-10T19:35:53.122Z info [index.js]: Corriendo en port 3001
+2019-06-11T00:27:45.581Z info [index.js]: Corriendo en port 3001
+2019-06-10T16:46:15.661Z info [index.js]: Corriendo en port 3001
+2019-06-10T16:46:42.209Z info [index.js]: Corriendo en port 3001
+2019-06-10T17:23:51.409Z info [index.js]: Corriendo en port 3001
+2019-06-10T17:25:12.691Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:26:19.743Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:26:45.466Z info [index.js]: Corriendo en port 3001
+2019-06-10T17:26:57.414Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:32:20.991Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:32:21.499Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:32:31.774Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:56:22.716Z info [index.js]: Corriendo en port 3001
+2019-06-10T18:40:22.299Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T18:40:37.475Z info [index.js]: Corriendo en port 3001
+2019-06-10T18:42:05.794Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T18:42:32.077Z info [index.js]: Corriendo en port 3001
+2019-06-10T18:45:50.658Z info [index.js]: Corriendo en port 3001
+2019-06-10T18:46:13.044Z info [index.js]: Corriendo en port 3001
+2019-06-10T18:48:31.103Z info [index.js]: Corriendo en port 3001
+2019-06-10T19:19:25.739Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T19:34:55.390Z info [index.js]: Corriendo en port 3001
+2019-06-10T19:35:53.122Z info [index.js]: Corriendo en port 3001
+2019-06-11T00:27:45.581Z info [index.js]: Corriendo en port 3001
+2019-06-10T16:46:15.661Z info [index.js]: Corriendo en port 3001
+2019-06-10T16:46:42.209Z info [index.js]: Corriendo en port 3001
+2019-06-10T17:23:51.409Z info [index.js]: Corriendo en port 3001
+2019-06-10T17:25:12.691Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:26:19.743Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:26:45.466Z info [index.js]: Corriendo en port 3001
+2019-06-10T17:26:57.414Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:32:20.991Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:32:21.499Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:32:31.774Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:56:22.716Z info [index.js]: Corriendo en port 3001
+2019-06-10T18:40:22.299Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T18:40:37.475Z info [index.js]: Corriendo en port 3001
+2019-06-10T18:42:05.794Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T18:42:32.077Z info [index.js]: Corriendo en port 3001
+2019-06-11T00:27:45.581Z info [index.js]: Corriendo en port 3001
+2019-06-11T00:27:45.581Z info [index.js]: Corriendo en port 3001
+2019-06-11T00:27:45.581Z info [index.js]: Corriendo en port 3001
+2019-06-11T00:27:45.581Z info [index.js]: Corriendo en port 3001
+2019-06-10T18:45:50.658Z info [index.js]: Corriendo en port 3001
+2019-06-10T18:46:13.044Z info [index.js]: Corriendo en port 3001
+2019-06-10T18:48:31.103Z info [index.js]: Corriendo en port 3001
+2019-06-10T19:19:25.739Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T19:34:55.390Z info [index.js]: Corriendo en port 3001
+2019-06-10T19:35:53.122Z info [index.js]: Corriendo en port 3001
+2019-06-11T00:27:45.581Z info [index.js]: Corriendo en port 3001
+2019-06-10T16:46:15.661Z info [index.js]: Corriendo en port 3001
+2019-06-10T16:46:42.209Z info [index.js]: Corriendo en port 3001
+2019-06-10T17:23:51.409Z info [index.js]: Corriendo en port 3001
+2019-06-10T17:25:12.691Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:26:19.743Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:26:45.466Z info [index.js]: Corriendo en port 3001
+2019-06-10T17:26:57.414Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:32:20.991Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:32:31.774Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:56:22.716Z info [index.js]: Corriendo en port 3001
+2019-06-10T18:40:22.299Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T18:40:37.475Z info [index.js]: Corriendo en port 3001
+2019-06-10T18:42:05.794Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T18:42:32.077Z info [index.js]: Corriendo en port 3001
+2019-06-10T18:45:50.658Z info [index.js]: Corriendo en port 3001
+2019-06-10T18:46:13.044Z info [index.js]: Corriendo en port 3001
+2019-06-10T18:48:31.103Z info [index.js]: Corriendo en port 3001
+2019-06-10T19:19:25.739Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T19:34:55.390Z info [index.js]: Corriendo en port 3001
+2019-06-10T19:35:53.122Z info [index.js]: Corriendo en port 3001
+2019-06-11T00:27:45.581Z info [index.js]: Corriendo en port 3001
+2019-06-10T16:46:15.661Z info [index.js]: Corriendo en port 3001
+2019-06-10T16:46:42.209Z info [index.js]: Corriendo en port 3001
+2019-06-10T17:23:51.409Z info [index.js]: Corriendo en port 3001
+2019-06-10T17:25:12.691Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:26:19.743Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:26:45.466Z info [index.js]: Corriendo en port 3001
+2019-06-10T17:26:57.414Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:32:20.991Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:32:21.499Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:32:31.774Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:56:22.716Z info [index.js]: Corriendo en port 3001
+2019-06-10T18:40:22.299Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T18:40:37.475Z info [index.js]: Corriendo en port 3001
+2019-06-10T18:42:05.794Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T18:42:32.077Z info [index.js]: Corriendo en port 3001
+2019-06-10T18:45:50.658Z info [index.js]: Corriendo en port 3001
+2019-06-10T18:46:13.044Z info [index.js]: Corriendo en port 3001
+2019-06-10T18:48:31.103Z info [index.js]: Corriendo en port 3001
+2019-06-10T19:19:25.739Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T19:34:55.390Z info [index.js]: Corriendo en port 3001
+2019-06-10T19:35:53.122Z info [index.js]: Corriendo en port 3001
+2019-06-11T00:27:45.581Z info [index.js]: Corriendo en port 3001
+2019-06-10T16:46:15.661Z info [index.js]: Corriendo en port 3001
+2019-06-10T16:46:42.209Z info [index.js]: Corriendo en port 3001
+2019-06-10T17:23:51.409Z info [index.js]: Corriendo en port 3001
+2019-06-10T17:25:12.691Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:26:19.743Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:26:45.466Z info [index.js]: Corriendo en port 3001
+2019-06-10T17:26:57.414Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:32:20.991Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:32:21.499Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:32:31.774Z error [usersController.js]: TypeError: Cannot read property 'setAvgScore' of null
+2019-06-10T17:56:22.716Z info [index.js]: Corriendo en port 3001
+2019-06-10T19:34:55.390Z info [index.js]: Corriendo en port 3001
+2019-06-10T19:35:53.122Z info [index.js]: Corriendo en port 3001
+2019-06-10T16:46:42.209Z info [index.js]: Corriendo en port 3001
+2019-06-10T19:35:53.122Z info [index.js]: Corriendo en port 3001
+2019-06-11T00:27:45.581Z info [index.js]: Corriendo en port 3001
+2019-06-11T00:27:45.581Z info [index.js]: Corriendo en port 3001
+2019-06-11T00:27:45.581Z info [index.js]: Corriendo en port 3001
+2019-06-11T00:27:45.581Z info [index.js]: Corriendo en port 3001
+2019-06-11T00:27:45.581Z info [index.js]: Corriendo en port 3001
+2019-06-11T00:27:45.581Z info [index.js]: Corriendo en port 3001
+2019-06-10T18:48:31.103Z info [index.js]: Corriendo en port 3001
